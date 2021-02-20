@@ -1,0 +1,175 @@
+{
+  "version": "1.0.0",
+  "parameters": [
+    {
+      "name": "Param 1",
+      "description": "Description Param 1",
+      "isList": true,
+      "roles": [
+        "role1 par1",
+        "role2 par1",
+        "role3 par1"
+      ],
+      "type": "Type Param 1",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1 par1",
+              "value": "value1 par1"
+            },
+            {
+              "code": "code2 par1",
+              "value": "value2 par1"
+            },
+            {
+              "code": "code1 par1",
+              "value": "value1 par1"
+            }
+          ],
+          "values": [
+            "value1 par1",
+            "value2 par1",
+            "value3 par1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Param 2",
+      "description": "Description Param 2",
+      "isList": true,
+      "roles": [
+        "role1 par2",
+        "role2 par2",
+        "role3 par2"
+      ],
+      "type": "Type Param 2",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1 par2",
+              "value": "value1 par2"
+            },
+            {
+              "code": "code2 par2",
+              "value": "value2 par2"
+            },
+            {
+              "code": "code1 par2",
+              "value": "value1 par2"
+            }
+          ],
+          "values": [
+            "value1 par2",
+            "value2 par2",
+            "value3 par2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Param 3",
+      "description": "Description Param 3",
+      "isList": true,
+      "roles": [
+        "role1 par3",
+        "role2 par3",
+        "role3 par3"
+      ],
+      "type": "Type Param 3",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1 par3",
+              "value": "value1 par3"
+            },
+            {
+              "code": "code2 par3",
+              "value": "value2 par3"
+            },
+            {
+              "code": "code1 par3",
+              "value": "value1 par3"
+            }
+          ],
+          "values": [
+            "value1 par3",
+            "value2 par3",
+            "value3 par3"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Param 4",
+      "description": "Description Param 4",
+      "isList": true,
+      "roles": [
+        "role1 par4",
+        "role2 par4",
+        "role3 par4"
+      ],
+      "type": "Type Param 4",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1 par4",
+              "value": "value1 par4"
+            },
+            {
+              "code": "code2 par4",
+              "value": "value2 par4"
+            },
+            {
+              "code": "code1 par4",
+              "value": "value1 par4"
+            }
+          ],
+          "values": [
+            "value1 par4",
+            "value2 par4",
+            "value3 par4"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Param 5",
+      "description": "Description Param 5",
+      "isList": true,
+      "roles": [
+        "role1 par5",
+        "role2 par5",
+        "role3 par5"
+      ],
+      "type": "Type Param 5",
+      "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1 par5",
+              "value": "value1 par5"
+            },
+            {
+              "code": "code2 par5",
+              "value": "value2 par5"
+            },
+            {
+              "code": "code1 par5",
+              "value": "value1 par5"
+            }
+          ],
+          "values": [
+            "value1 par5",
+            "value2 par5",
+            "value3 par5"
+          ]
+        }
+      ]
+    }
+  ]
+}
